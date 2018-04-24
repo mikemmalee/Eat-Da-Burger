@@ -1,0 +1,39 @@
+body {
+    background: url(../img/burger.jpg);
+    no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.container {
+    margin: 0 auto;
+    padding-top: 50px;
+    width: 80%;
+}
+
+.btn,
+.dynamic {
+    color: black;
+}
+
+.change-status {
+    float: right;
+}
+
+h1 {
+    color: #e53935;
+    font-weight: bold;
+}
+
+h2, 
+p {
+    color: white;
+}
+
+p {
+    text-indent: 20px;
+}
